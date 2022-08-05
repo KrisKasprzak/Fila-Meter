@@ -21,6 +21,9 @@ https://www.amazon.com/gp/product/B07VP6BTMV/ref=ppx_yo_dt_b_search_asin_title?i
 <br>
 Switch
 https://www.amazon.com/gp/product/B01MG5PPNV/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1
+<br>
+Bearing
+https://www.amazon.com/Winter-Evening-Oversized-Bearings-20x32x7mm/dp/B09NX399HH/ref=sr_1_1_sspa?crid=H8MLF8ZN7LH3&keywords=6804+Ball+Bearing&qid=1659716384&s=industrial&sprefix=6804+ball+bearing%2Cindustrial%2C74&sr=1-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEzNjJYNVBTV1FCUVUyJmVuY3J5cHRlZElkPUEwMTE0NTkzSFVaMVpIMkhUQ1Q1JmVuY3J5cHRlZEFkSWQ9QTEwMDk3MjQzRUQ1RzNBNTRHRVRYJndpZGdldE5hbWU9c3BfYXRmJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ==
 
 <b>Demonstration</b>
 <br>
