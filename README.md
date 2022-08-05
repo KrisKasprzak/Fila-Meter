@@ -4,7 +4,8 @@ This project will get you started in building a filament meter for your 3D print
 
 ![header image](https://raw.github.com/KrisKasprzak/Fila-Meter/master/images/WiringDiagram.jpg)
 
-Parts list
+<b>Parts list</B>
+<br>
 Display
 https://www.amazon.com/gp/product/B07QGCWJMV/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1
 
