@@ -2,10 +2,7 @@
 Code and project files to build a 3D printer filament meter
 This project will get you started in building a filament meter for your 3D printer. Code, STL files and a drawing is included.
 
-https://raw.github.com/KrisKasprzak/ILI9341_t3_controls/master/BarChartH.jpg
-
-https://raw.github.com/KrisKasprzak/Fila-Meter/master/images/WiringDiagram.jpg
-![header image](https://raw.github.com/KrisKasprzak/Fila-Meter/master/Images/WiringDiagram.jpg)
+![header image](https://raw.github.com/KrisKasprzak/Fila-Meter/master/images/WiringDiagram.jpg)
 
 Parts list
 Display
