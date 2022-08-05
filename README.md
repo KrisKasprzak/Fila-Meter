@@ -1,6 +1,5 @@
 # Fila-Meter
-Code and project files to build a 3D printer filament meter
-This project will get you started in building a filament meter for your 3D printer. Code, STL files and a drawing is included.
+If you are a DIY'er you probably have a 3D printer. How do you know if you have enough fillament for your next job? This filamenter meter will let you know. This project includes source code, parts lists, and 3D STL files so you can your own 3D printer filament meter. The case for the meter is designed to fit an Ender Pro, so you may have to adjust the CAD model to fit your own printer.
 
 ![header image](https://raw.github.com/KrisKasprzak/Fila-Meter/master/images/WiringDiagram.jpg)
 
