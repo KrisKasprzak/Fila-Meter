@@ -4,6 +4,7 @@ If you are a DIY'er you probably have a 3D printer. How do you know if you have 
 ![header image](https://raw.github.com/KrisKasprzak/Fila-Meter/master/images/Front.jpg)
 ![header image](https://raw.github.com/KrisKasprzak/Fila-Meter/master/images/Back.jpg)
 ![header image](https://raw.github.com/KrisKasprzak/Fila-Meter/master/images/WiringDiagram.jpg)
+![header image](https://raw.github.com/KrisKasprzak/Fila-Meter/master/images/TeensyLC.jpg)
 
 <b>Parts list</B>
 <br>
