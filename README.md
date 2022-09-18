@@ -3,7 +3,11 @@ If you are a DIY'er you probably have a 3D printer. How do you know if you have 
 
 ![header image](https://raw.github.com/KrisKasprzak/Fila-Meter/master/images/Front.jpg)
 ![header image](https://raw.github.com/KrisKasprzak/Fila-Meter/master/images/Back.jpg)
+
+Wiring Diagram for a NANO
 ![header image](https://raw.github.com/KrisKasprzak/Fila-Meter/master/images/WiringDiagram.jpg)
+
+Wiring Diagram for a Teensy LC (with rotary encoder, menu, more options)
 ![header image](https://raw.github.com/KrisKasprzak/Fila-Meter/master/images/TeensyLC.jpg)
 
 <b>Parts list</B>
