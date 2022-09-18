@@ -1,14 +1,13 @@
 # Fila-Meter
 If you are a DIY'er you probably have a 3D printer. How do you know if you have enough filament for your next job? This filament meter will let you know. As jobs pritnt, the display will show total filament remaining, filament used, and the filament cost for the current print job. The device saves the remaining filament to the EEPROM memory. A button on the device let's you reset the filament when a new roll is used. This project includes source code, parts lists, and 3D STL files so you can your own 3D printer filament meter. The case for the meter is designed to fit an Ender Pro, so you may have to adjust the CAD model to fit your own printer.
 
+<b>Arduino NANO implementation</B>
 ![header image](https://raw.github.com/KrisKasprzak/Fila-Meter/master/images/Front.jpg)
 ![header image](https://raw.github.com/KrisKasprzak/Fila-Meter/master/images/Back.jpg)
-
-<b>Teensy LC implementation</B>
-Wiring Diagram for a NANO
 ![header image](https://raw.github.com/KrisKasprzak/Fila-Meter/master/images/WiringDiagram.jpg)
 
-Wiring Diagram for a Teensy LC (with rotary encoder, menu, more options)
+<b>Teensy LC implementation, (with rotary encoder, menu, more options)</B>
+
 ![header image](https://raw.github.com/KrisKasprzak/Fila-Meter/master/images/IMG_5765.jpg)
 ![header image](https://raw.github.com/KrisKasprzak/Fila-Meter/master/images/IMG_5766.jpg)
 ![header image](https://raw.github.com/KrisKasprzak/Fila-Meter/master/images/IMG_5767.jpg)
